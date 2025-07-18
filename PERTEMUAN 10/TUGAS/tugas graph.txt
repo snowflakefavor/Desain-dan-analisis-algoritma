@@ -1,0 +1,13 @@
+1.A->C->B->G
+Jarak:3+2+2=7
+
+2. jenis 1:undirected graph
+jenis 2 : directed graph
+
+3. a-b:
+A->C->B
+Jarak : 3+2=5
+
+a-f:
+A->D->E->F
+Jarak : 2+4+1=7
